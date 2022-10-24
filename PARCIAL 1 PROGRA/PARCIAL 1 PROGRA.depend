@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666651598 source:d:\programacion 1 2022\2 cuatri\parcial 1 progra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
